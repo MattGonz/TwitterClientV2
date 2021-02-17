@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ### App Walkthough GIF
-<img src='walkthrough_part2.gif' title='Video Walkthrough' height=600px alt='Video Walkthrough' /><br>
+<img src='walkthrough.gif' title='Video Walkthrough' height=600px alt='Video Walkthrough' /><br>
 GIF created with [Peek](https://github.com/phw/peek).
 
 ## Open-source libraries used
